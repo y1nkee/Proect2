@@ -43,7 +43,7 @@ func (t Training) meanSpeed() float64 {
 // Пока возвращаем 0, так как этот метод будет переопределяться для каждого типа тренировки.
 func (t Training) Calories() float64 {
 	// вставьте ваш код ниже
-	return 0
+	return 0 //
 
 }
 
